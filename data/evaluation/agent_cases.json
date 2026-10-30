@@ -1,0 +1,23 @@
+[
+  {
+    "case_id": "E-01",
+    "request": "Plan the next action for T-1001.",
+    "expected_tools": ["lookup_ticket", "lookup_policy", "find_available_owner"],
+    "required_terms": ["replacement", "4 business hours", "Priya"],
+    "requires_human_review": false
+  },
+  {
+    "case_id": "E-02",
+    "request": "Handle the critical export incident in T-1003.",
+    "expected_tools": ["lookup_ticket", "lookup_policy", "find_available_owner", "human_review"],
+    "required_terms": ["incident command", "60 minutes", "Sam"],
+    "requires_human_review": true
+  },
+  {
+    "case_id": "E-03",
+    "request": "Summarize what memory changes are safe for Aisha Khan.",
+    "expected_tools": ["recall_memory"],
+    "required_terms": ["production exports", "do not store credentials"],
+    "requires_human_review": false
+  }
+]

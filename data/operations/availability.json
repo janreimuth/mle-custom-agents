@@ -1,0 +1,6 @@
+[
+  {"owner": "Priya", "role": "logistics", "region": "EU", "available_in_minutes": 35},
+  {"owner": "Leo", "role": "billing", "region": "US", "available_in_minutes": 90},
+  {"owner": "Sam", "role": "incident commander", "region": "APAC", "available_in_minutes": 15},
+  {"owner": "Rina", "role": "security", "region": "US", "available_in_minutes": 20}
+]

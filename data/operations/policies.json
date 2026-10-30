@@ -1,0 +1,22 @@
+[
+  {
+    "policy_id": "shipping-expedite",
+    "topic": "shipping",
+    "text": "Enterprise customers with delayed expedited orders receive replacement shipment review within 4 business hours."
+  },
+  {
+    "policy_id": "subscription-pause",
+    "topic": "billing",
+    "text": "Annual subscriptions can be paused once per contract year for up to 30 days when the account is in good standing."
+  },
+  {
+    "policy_id": "incident-critical",
+    "topic": "incident",
+    "text": "Critical incidents affecting enterprise production workflows require escalation to incident command and a customer update every 60 minutes."
+  },
+  {
+    "policy_id": "security-login",
+    "topic": "security",
+    "text": "Suspicious login reports require password reset guidance, session revocation, and multi-factor authentication review."
+  }
+]

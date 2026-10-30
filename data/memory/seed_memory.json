@@ -1,0 +1,14 @@
+[
+  {
+    "customer": "Mira Stone",
+    "fact": "Prefers concise email updates before phone calls.",
+    "source": "support-note",
+    "confidence": 0.8
+  },
+  {
+    "customer": "Aisha Khan",
+    "fact": "Uses production exports for daily APAC executive reporting.",
+    "source": "incident-retro",
+    "confidence": 0.9
+  }
+]

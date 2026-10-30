@@ -1,0 +1,46 @@
+[
+  {
+    "ticket_id": "T-1001",
+    "customer": "Mira Stone",
+    "tier": "enterprise",
+    "topic": "shipping",
+    "status": "open",
+    "priority": "high",
+    "summary": "Replacement sensor kit has not shipped after an expedited order.",
+    "region": "EU",
+    "created_hours_ago": 9
+  },
+  {
+    "ticket_id": "T-1002",
+    "customer": "Nolan Reed",
+    "tier": "standard",
+    "topic": "billing",
+    "status": "waiting",
+    "priority": "medium",
+    "summary": "Customer asks whether an annual subscription can be paused.",
+    "region": "US",
+    "created_hours_ago": 27
+  },
+  {
+    "ticket_id": "T-1003",
+    "customer": "Aisha Khan",
+    "tier": "enterprise",
+    "topic": "incident",
+    "status": "open",
+    "priority": "critical",
+    "summary": "Production dashboard exports fail after the morning release.",
+    "region": "APAC",
+    "created_hours_ago": 2
+  },
+  {
+    "ticket_id": "T-1004",
+    "customer": "Jon Bell",
+    "tier": "trial",
+    "topic": "security",
+    "status": "new",
+    "priority": "medium",
+    "summary": "Trial account owner reports a suspicious login notification.",
+    "region": "US",
+    "created_hours_ago": 4
+  }
+]
